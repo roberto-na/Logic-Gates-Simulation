@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/ProySisDigAva/HW2/HW2_tb_isim_beh.exe" -prj "C:/ProySisDigAva/HW2/HW2_tb_beh.prj" "work.HW2_tb" 
